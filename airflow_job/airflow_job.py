@@ -68,7 +68,7 @@ with DAG(
         },
         "environment_config": {
             "execution_config": {
-                "service_account": "106351677325-compute@developer.gserviceaccount.com",
+                "service_account": "<YOUR-SERVICE-ACCOUNT>",
                 "network_uri": "projects/symbolic-path-463418-q4/global/networks/default",
                 "subnetwork_uri": "projects/symbolic-path-463418-q4/regions/us-central1/subnetworks/default",
             }
