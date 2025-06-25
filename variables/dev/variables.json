@@ -1,6 +1,6 @@
 {
     "env": "dev",
-    "gcs_bucket": "flight-booking-cicd",
+    "gcs_bucket": "gds-airflow-projects",
     "bq_project": "symbolic-path-463418-q4",
     "bq_dataset": "flight_data_dev",
     "tables": {
